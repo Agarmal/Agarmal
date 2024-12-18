@@ -1,4 +1,4 @@
-- Hello, I’m @Agarmal 👋
+- Hello, I’m Agarmal 👋
 - I'm a young self-teaching developer! 🛠️
 - I'm learning how to make more advanced mods for Minecraft. 🕹️
 - Pronouns: He/Him
