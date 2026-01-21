@@ -1,4 +1,4 @@
-Meh. Nothing interesting here.
+I'm a young developer who likes modded Minecraft!
 
 <!---
 Agarmal/Agarmal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
